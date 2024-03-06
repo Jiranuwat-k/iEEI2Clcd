@@ -1,0 +1,10 @@
+name=iEEI2C
+version=1.0
+author=Jiranuwat.k
+maintainer=None
+sentence=iEE-M328 Board LCD I2C.
+paragraph=This library use Atmega328 LCD Display.
+category=Display
+url=https://github.com/Jiranuwat-k/iEEI2Clcd
+architectures=avr
+depends=iEEI2C
